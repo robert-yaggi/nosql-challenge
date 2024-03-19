@@ -7,6 +7,7 @@ The UK Food Standards Agency evaluates various establishments across the United 
 
 - Determine which establishments in Lond have a RatingValue greater than or equal to 4.
 
-- What are the top 5 establishments with a RatingValue of 5, sorted by lowest hygiene score, and nearest to the new added restaurant, "Penang Flavours".
+- Determine what are the top 5 establishments with a RatingValue of 5, sorted by lowest hygiene score, and nearest to the newly added restaurant, "Penang Flavours".
 
-- How many establishments in each Local Authority area have a hygiene score of 0. 
+- Determine how many establishments in each Local Authority area have a hygiene score of 0.
+
